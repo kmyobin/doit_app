@@ -3,10 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/sowha/AndroidStudioProjects/SampleTab2/app/src/main/res/drawable/item_color.xml" value="0.1" />
-        <entry key="..\:/Users/sowha/AndroidStudioProjects/SampleTab2/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/sowha/AndroidStudioProjects/SampleTab2/app/src/main/res/layout/fragment1.xml" value="0.1" />
-        <entry key="..\:/Users/sowha/AndroidStudioProjects/SampleTab2/app/src/main/res/menu/menu_bottom.xml" value="0.22" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/SamplePager/app/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/SamplePager/app/src/main/res/layout/fragment1.xml" value="0.35520833333333335" />
       </map>
     </option>
   </component>
