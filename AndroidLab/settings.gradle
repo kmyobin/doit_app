@@ -16,3 +16,4 @@ rootProject.name = "AndroidLab"
 include ':app'
 include ':ch8_event'
 include ':ch9_resource'
+include ':app:ch10_notification'
