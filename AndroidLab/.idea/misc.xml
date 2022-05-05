@@ -19,6 +19,20 @@
         <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch12_material/src/main/res/layout/navigation_header.xml" value="0.1" />
         <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch12_material/src/main/res/menu/menu_main.xml" value="0.18177083333333333" />
         <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch12_material/src/main/res/menu/menu_navigation.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch13_activity/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.232" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch13_activity/src/main/res/drawable/ic_launcher_background.xml" value="0.232" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch13_activity/src/main/res/layout/activity_add.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch13_activity/src/main/res/menu/menu_add.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch14_receiver/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch15_outer/src/main/res/layout/activity_main.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch15_service/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch16_provider/src/main/res/xml/files_paths.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch17_database/src/main/res/layout/activity_setting.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch17_database/src/main/res/layout/fragment_my_setting.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch17_database/src/main/res/xml/settings.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch18_network/src/main/res/menu/menu_main.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch19_map/src/main/res/layout/activity_main.xml" value="0.340625" />
+        <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch20_firebase/src/main/res/menu/menu_add.xml" value="0.35520833333333335" />
         <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch8_event/src/main/res/drawable/round_button.xml" value="0.243" />
         <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch8_event/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
         <entry key="..\:/Users/sowha/AndroidStudioProjects/AndroidLab/ch9_resource/src/main/res/drawable/round_button.xml" value="0.243" />
